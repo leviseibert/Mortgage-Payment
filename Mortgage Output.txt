@@ -1,0 +1,2 @@
+The monthly payment amount is: $167.48
+The total amount paid at the end of the loan period will be: $40194.01
